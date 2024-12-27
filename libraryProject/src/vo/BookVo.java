@@ -9,7 +9,9 @@ public class BookVo {
     String owner;
     String read;
 
-
+/*
+ 안녕하세요
+ */
     public BookVo(){}
 
     public BookVo(int code, String book, String name, String company, int price, String owner, String read){

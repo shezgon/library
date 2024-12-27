@@ -68,3 +68,7 @@ public class UserVo {
         this.addr = addr;
     }
 }
+
+/*
+    깃허브 테스트용 문구입니다.
+ */
