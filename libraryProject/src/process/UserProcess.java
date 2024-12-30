@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class UserProcess {
     Scanner scan = new Scanner(System.in);
     public UserProcess(){
-        UserProcess.setUser();
+       // UserProcess.setUser();
     }
     public void start(){
         do{
